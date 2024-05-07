@@ -17,3 +17,11 @@ code/appImmViewer/bin
 code/appImmViewer/exe/appImmViewer_Debug.*
 code/appImmViewer/exe/appImmViewer_Release.*
 code/projects/windows/.vs
+**/build/
+**/.cxx/
+**/.idea/
+**/.gradle/
+**/local.properties
+**/*.a
+**/*.so
+**/exe/
